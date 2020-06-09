@@ -2,3 +2,9 @@
 https://dkeemin.com/%ec%bb%a8%eb%b3%bc%eb%a3%a8%ec%85%98convolution-%ec%a0%95%ec%9d%98%eb%a5%bc-%ec%89%bd%ea%b2%8c-%ec%9d%b4%ed%95%b4%ed%95%b4%eb%b3%b4%ec%9e%90/
 
 
+OpenCV를 활용한 프로젝트들을 다룬 블로그들
+https://webnautes.tistory.com/1254
+https://blog.naver.com/samsjang/220699662173
+
+opencv에서 제공하는 openpose나 personpose와 같은 모션인식 프로젝트도 재미있고, 특히 모션 에러를 보정해주는 필터중 savgol_filter가 있는데 예제가 굉장히 안정적이다.
+
